@@ -1,0 +1,104 @@
+/*******************************************************************************
+*	AJ Regester
+*	CS2320, Data Structures
+*	Project 2 + Bonus
+*
+*	Output File
+*******************************************************************************/
+
+Index 0: 5 | Index 1: 3 | Index 2: 9 | Index 3: 1 | Index 4: 4 | Index 5: 8 | Index 6: 19 | Index 8: 2 | Index 13: 18 | Index 14: 20 | 
+               20
+            /
+          19
+            \
+               18
+       /
+     9
+       \
+          8
+  /
+5
+  \
+          4
+       /
+     3
+       \
+               2
+            /
+          1
+The maximum value in the tree is: 20
+The minimum value in the tree is: 1
+The value of 3 is at index: 1
+The value of 18 is at index: 13
+The value of 19 is at index: 6
+Index 0: 5 | Index 1: 3 | Index 2: 9 | Index 3: 1 | Index 4: 4 | Index 5: 8 | Index 6: 18 | Index 8: 2 | Index 14: 20 | 
+               20
+            /
+          18
+       /
+     9
+       \
+          8
+  /
+5
+  \
+          4
+       /
+     3
+       \
+               2
+            /
+          1
+Index 0: 5 | Index 1: 3 | Index 2: 9 | Index 3: 1 | Index 4: 4 | Index 5: 8 | Index 6: 18 | Index 14: 20 | 
+               20
+            /
+          18
+       /
+     9
+       \
+          8
+  /
+5
+  \
+          4
+       /
+     3
+       \
+          1
+Index 0: 5 | Index 1: 3 | Index 2: 18 | Index 3: 1 | Index 4: 4 | Index 5: 9 | Index 6: 20 | 
+          20
+       /
+     18
+       \
+          9
+  /
+5
+  \
+          4
+       /
+     3
+       \
+          1
+Index 0: 5 | Index 1: 1 | Index 2: 18 | Index 4: 4 | Index 5: 9 | Index 6: 20 | 
+          20
+       /
+     18
+       \
+          9
+  /
+5
+  \
+          4
+       /
+     1
+Index 0: 9 | Index 1: 4 | Index 2: 20 | Index 3: 1 | Index 5: 18 | 
+     20
+       \
+          18
+  /
+9
+  \
+     4
+       \
+          1
+
